@@ -1,0 +1,6 @@
+{
+  "durableTask": {
+    "EventGridTopicEndpoint": "YOUR_EVENT_GRID_TPIC_ENDPOINT_HERE",
+    "EventGridKey": "YOUR_EVENT_GRID_TOPIC_KEY_HERE"
+  }
+}
